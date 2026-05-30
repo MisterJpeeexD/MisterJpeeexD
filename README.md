@@ -1,7 +1,7 @@
 # ¡Hola! Soy Jean Paul Santander 💻
 
 <p align="center">
-  <img src="https://ultrawidewallpapers.net/wallpapers/329/highres/aishot-1341.jpg" alt="Banner de Código" width="100%" style="height: 100px; object-fit: cover; object-position: center;"/>
+  <img src="https://ultrawidewallpapers.net/wallpapers/329/highres/aishot-1341.jpg" alt="Banner de Código"/>
 </p>
 
 Soy Ingeniero en Redes y actualmente un desarrollador en formación y entusiasta de la tecnología con base en Santiago de Chile. Actualmente, formo parte de la **Cohorte 25** del bootcamp de **Generation Chile**, enfocado en especializarme en desarrollo **Java Full Stack**.
