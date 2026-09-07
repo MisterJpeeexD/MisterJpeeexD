@@ -22,9 +22,8 @@ Passionate about logical problem-solving, task automation, and exploring the Uni
 
 ### 🚀 Projects & Current Focus
 
-* **BitDevIt:** Independent technical consultancy and software infrastructure services.
+* **KeepLink:** System / tool designed to efficiently centralize, organize, and manage web links and resources, focusing on clean architecture and a streamlined user experience.
 * **Logic & Algorithm Projects:** Implementing data structures, advanced validation patterns, and code optimization exercises in Python and Java.
-* **[Desafío ABC](https://github.com/MisterJpeeexD/desafio-abc-p2):** Collaborative web project focused on dynamic frontend integration and asynchronous API fetching.
 
 ---
 
