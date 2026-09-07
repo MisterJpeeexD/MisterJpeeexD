@@ -14,7 +14,7 @@ Passionate about logical problem-solving, task automation, and exploring the Uni
 
 * **Core Languages:** Java, Python, JavaScript (ES6+)
 * **Web Development:** HTML5, CSS3, DOM Manipulation, REST API Consumption
-* **Databases & Cloud:** MySQL, GCP Concepts / Cloud Services
+* **Databases & Cloud:** PostgreSQL, Cloud Services
 * **Scripting & Automation:** Bash (Linux), Batch (Windows)
 * **Systems & Environments:** Linux (Arch / Ubuntu), Git, GitHub, VS Code, IntelliJ IDEA
 
@@ -54,7 +54,7 @@ Electronic music enthusiast (EDM, Hardstyle). My top track picks while coding:
 ### 📫 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/jean-paul-santander-rios-431b0b15b/" target="_blank">
+  <a href="https://www.linkedin.com/in/jean-paul-santander-rios/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/MisterJpeeexD" target="_blank">
