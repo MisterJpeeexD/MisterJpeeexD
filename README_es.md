@@ -54,7 +54,7 @@ Entusiasta de la música electrónica (EDM, Hardstyle). Mis tracks favoritos par
 ### 📫 Conectemos
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/jean-paul-santander-rios-431b0b15b/" target="_blank">
+  <a href="https://www.linkedin.com/in/jean-paul-santander-rios/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/MisterJpeeexD" target="_blank">
