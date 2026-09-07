@@ -22,9 +22,8 @@ Apasionado por la resolución de problemas lógicos, la automatización y el ent
 
 ### 🚀 Proyectos & Trabajo Actual
 
-* **BitDevIt:** Consultoría técnica e infraestructura de software independiente.
 * **Proyectos de Lógica & Algoritmos:** Implementación de estructuras de datos, validaciones avanzadas y ejercicios de optimización en Python y Java.
-* **[Desafío ABC](https://github.com/MisterJpeeexD/desafio-abc-p2):** Proyecto colaborativo enfocado en integración web dinámica e interacción con APIs asíncronas.
+* **KeepLink:** Sistema / herramienta diseñada para centralizar, organizar y gestionar enlaces y recursos web de forma eficiente, enfocado en una arquitectura limpia y una experiencia de usuario ágil.
 
 ---
 
