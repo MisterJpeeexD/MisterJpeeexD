@@ -14,7 +14,7 @@ Apasionado por la resolución de problemas lógicos, la automatización y el ent
 
 * **Lenguajes Core:** Java, Python, JavaScript (ES6+)
 * **Desarrollo Web:** HTML5, CSS3, DOM Manipulation, Consumo de REST APIs
-* **Bases de Datos & Cloud:** MySQL, Conceptos de GCP / Servicios Cloud
+* **Bases de Datos & Cloud:** PostgreSQL, Servicios Cloud
 * **Scripting & Automatización:** Bash (Linux), Batch (Windows)
 * **Sistemas & Entornos:** Linux (Arch / Ubuntu), Git, GitHub, VS Code, IntelliJ IDEA
 
@@ -36,7 +36,7 @@ Apasionado por la resolución de problemas lógicos, la automatización y el ent
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
 
 ---
