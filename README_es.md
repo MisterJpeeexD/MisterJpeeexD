@@ -1,4 +1,4 @@
-🌐 **Idiomas:** [Español] | [English]((https://github.com/MisterJpeeexD/MisterJpeeexD/README.md))
+🌐 **Idiomas:** [Español] | ["[English]"](https://github.com/MisterJpeeexD/MisterJpeeexD/README.md)
 
 ---
 
