@@ -52,20 +52,6 @@ Entusiasta de la música electrónica (EDM, Hardstyle). Mis tracks favoritos par
 
 ### 📫 Conectemos & Me regalas un cafe? :)
 
-<style>
-  .bmc-button {
-    height: 28px !important;
-    width: 130px;
-    border-radius: 100px;
-    box-shadow: 0px 3px 2px 0px rgba(167, 80, 0, 0.5) !important;
-    transition: box-shadow 0.2s ease, transform 0.2s ease;
-  }
-  .bmc-button:hover {
-    box-shadow: none !important;
-    transform: translateY(1px);
-  }
-</style>
-
 <p align="left">
   <a href="https://www.linkedin.com/in/jean-paul-santander-rios/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -73,8 +59,13 @@ Entusiasta de la música electrónica (EDM, Hardstyle). Mis tracks favoritos par
   <a href="https://github.com/MisterJpeeexD" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" 
-       alt="Buy Me A Coffee" 
-       class="bmc-button">
+  <a href="https://buymeacoffee.com/misterjpeeexd" target="_blank">
+    <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png"
+    alt="Buy Me A Coffee" 
+    style="
+    height: 28px !important;
+    width: 130px;
+    border-radius: 100px 100px 100px 100px;
+    box-shadow: 0px 3px 2px 0px rgba(167, 80, 0, 0.5) !important;">
   </a>
 </p>
