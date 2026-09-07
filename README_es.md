@@ -2,7 +2,7 @@
 
 ---
 
-# ¡Hola! Soy Jean Paul Santander 🇨🇱
+# Hola! Soy Jean Paul Santander 🇨🇱
 
 Ingeniero en Redes y Desarrollador Software Full Stack radicado en Santiago de Chile. Actualmente me desempeño como **Desarrollador Independiente**, enfocado en la lógica de programación, arquitectura de datos y optimización de sistemas.
 
