@@ -50,7 +50,7 @@ Entusiasta de la música electrónica (EDM, Hardstyle). Mis tracks favoritos par
 
 ---
 
-### 📫 Conectemos
+### 📫 Conectemos & Me regalas un cafe? :)
 
 <p align="left">
   <a href="https://www.linkedin.com/in/jean-paul-santander-rios/" target="_blank">
@@ -58,5 +58,8 @@ Entusiasta de la música electrónica (EDM, Hardstyle). Mis tracks favoritos par
   </a>
   <a href="https://github.com/MisterJpeeexD" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://buymeacoffee.com/misterjpeeexd" target="_blank">
+    <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
   </a>
 </p>
